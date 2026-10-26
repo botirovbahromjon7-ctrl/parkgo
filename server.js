@@ -4,7 +4,7 @@ const {Server}=require('socket.io');
 const QRCode=require('qrcode');
 const questions=require('./questions.json');
 const app=express(); const server=http.createServer(app); const io=new Server(server,{pingTimeout:30000});
-app.use(express.static('public'));
+app.use(express.static(__dirname));
 const HOST_KEY=process.env.HOST_KEY || 'parkgo2026';
 let game={pin:String(Math.floor(100000+Math.random()*900000)),phase:'lobby',index:-1,endsAt:0,players:new Map(),host:null,timer:null};
 const top=()=>[...game.players.values()].sort((a,b)=>b.score-a.score||a.joined-b.joined).map((p,i)=>({rank:i+1,name:p.name,score:p.score,connected:p.connected}));
