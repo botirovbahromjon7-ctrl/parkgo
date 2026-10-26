@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: parkgo-quiz-battle
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: HOST_KEY
+        sync: false

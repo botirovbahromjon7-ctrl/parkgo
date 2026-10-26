@@ -1,0 +1,17 @@
+[
+{"q":"ParkGo ilovasining asosiy vazifasi nima?","a":["Parking qidirish, bron va to‘lov","Taksi chaqirish","Avtomobil sotish","Yoqilg‘i yetkazish"],"correct":0},
+{"q":"ParkGo dastlab qaysi shaharda ishga tushiriladi?","a":["Samarqand","Toshkent","Buxoro","Nukus"],"correct":1},
+{"q":"ParkGo qaysi turdagi parkinglarga e’tibor qaratadi?","a":["Faqat aeroportlarga","Faqat bepul joylarga","Shartnomali xususiy parkinglarga","Faqat uy hovlilariga"],"correct":2},
+{"q":"ParkGo parking egalaridan abonent to‘lovi oladimi?","a":["Ha, har oy","Faqat dam olish kunlari","Faqat birinchi oy","Yo‘q"],"correct":3},
+{"q":"Basic paketning oylik narxi qancha?","a":["0 so‘m","19 000 so‘m","39 000 so‘m","99 000 so‘m"],"correct":0},
+{"q":"Basic paketida bron komissiyasi necha foiz?","a":["5%","10%","15%","20%"],"correct":2},
+{"q":"Plus paketining oylik narxi qancha?","a":["9 000 so‘m","19 000 so‘m","29 000 so‘m","39 000 so‘m"],"correct":1},
+{"q":"Premium paketida bron komissiyasi necha foiz?","a":["15%","12%","10%","5%"],"correct":3},
+{"q":"20 000 so‘mlik parking uchun Basic jami qancha to‘laydi?","a":["20 000 so‘m","21 000 so‘m","23 000 so‘m","25 000 so‘m"],"correct":2},
+{"q":"ParkGo ilovasini ishlab chiqish budjeti qancha?","a":["100 mln so‘m","200 mln so‘m","300 mln so‘m","500 mln so‘m"],"correct":2},
+{"q":"Birinchi 3 oyda nechta parking bilan ishlash rejalashtirilgan?","a":["5 ta","15 ta","30 ta","100 ta"],"correct":1},
+{"q":"1-yil oxirida Toshkentda nechta hamkor parking maqsad qilingan?","a":["15 ta","50 ta","75 ta","100 ta"],"correct":3},
+{"q":"100 parkingda oyiga nechta bron rejalashtirilgan?","a":["9 000 ta","30 000 ta","60 000 ta","90 000 ta"],"correct":3},
+{"q":"ParkGo bo‘sh joyni aniqlashda qaysi usuldan foydalanishi mumkin?","a":["Operator paneli yoki kamera","Faqat qo‘ng‘iroq","Faqat qog‘oz ro‘yxat","Tasodifiy taxmin"],"correct":0},
+{"q":"SWOT tahlilida qaysi biri ParkGo uchun tahdid?","a":["3 xil paket","Bir ilovada bron va to‘lov","Raqobatchilar va o‘xshash ilovalar","Parkinglarni qidirish"],"correct":2}
+]
